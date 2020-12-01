@@ -25,7 +25,7 @@
     "component-selector": [
       true,
       "element",
-      "app",
+      "iit",
       "kebab-case"
     ],
     "eofline": true,
